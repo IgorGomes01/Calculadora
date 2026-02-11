@@ -6,5 +6,3 @@ nota2 = float(input("Digite a Segunda Nota: "))
 media = (nota1+nota2) /2
 
 print("Sua Média é: ", media)
-
-if media >=7
